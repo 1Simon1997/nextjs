@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -18,44 +19,49 @@ export default function Home() {
 
 
         <div className={styles.grid}>
-
-         
-          <a href="/questions/first" className={styles.card}>
+         <div className={styles.card}>
+          <Link href="/questions/first" >
          <div>
           <h1>
           Question 1 : 
           </h1>
           <p> Things a Product Advocate Might Do:</p>
           </div>
-          </a>
-
-          <a href="/questions/second" className={styles.card}>
+          </Link>
+          </div>
+          <div className={styles.card}>
+          <Link href="/questions/second" className={styles.card}>
          <div>
           <h1>
           Question 2 : 
           </h1>
           <p> Reflection on past experience</p>
           </div>
-          </a>
+          </Link>
+          </div>
 
-          <a href="/questions/third" className={styles.card}>
+          <div className={styles.card}>
+
+          <Link href="/questions/third" className={styles.card}>
          <div>
           <h1>
           Question 3 : 
           </h1>
           <p> Practice Email Responses</p>
           </div>
-          </a>
+          </Link>
+          </div>
 
-          <a href="/questions/fourth" className={styles.card}>
+<div className={styles.card}>
+          <Link href="/questions/fourth" className={styles.card}>
          <div>
           <h1>
           Question 4 : 
           </h1>
           <p> Your personal recommendations:</p>
           </div>
-          </a>
-          
+          </Link>
+          </div>
         </div>
       </main>
 
