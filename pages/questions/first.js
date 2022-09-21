@@ -16,7 +16,7 @@ would be most interested in doing and the 3 you would be least interested in doi
   <li>Recommend to customers the Vercel plan best suited for them</li>
   <li>Identify the types of prospect (agency, freelancer, executive) and respond accordingly</li>
   <li>Organize, Schedule & book meetings for Account Executives with prospects</li>
-  <li>Evaluate an application to help determine if it's commercial or not</li>
+  <li>Evaluate an application to help determine if it&apos;s commercial or not</li>
 </ul>
 <p> <strong>Least Interested:</strong></p>
 <ul>
