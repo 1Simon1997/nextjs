@@ -22,7 +22,7 @@ would be most interested in doing and the 3 you would be least interested in doi
 <ul>
   <li>Evaluate OSS sponsorship applications</li>
   <li>Hop on a Zoom call to do a product demo</li>
-  <li>Create queries to look at a prospect's typical Vercel usage</li>
+  <li>Create queries to look at a prospect&apos;s typical Vercel usage</li>
 </ul>
 
     </div>

@@ -18,7 +18,7 @@ to host. I would like more information about the Enterprise option. </p>
 <p> <strong>Answer:</strong></p>
 <p> Hi Joe,</p>
 <p> Thank you for reaching out to Vercel</p>
-<p> We understand that you would like to launch your new site using Next.js and host it trough Vercel. Given the scope of your website and requirement, the Enterprise plan would be the best suited option for your organization. The Enterprise plan comes with a customization option to customize the features (like custom bandwidth, custom build execution, custom deloyements per day and so on) to fit your organization's requirement along with the best Security features (like Password Protected Previews, Custom Firewall Rules, Single-Sign On and 2FA and so on) to secure your site and the best product Support provided for your organzation.</p>
+<p> We understand that you would like to launch your new site using Next.js and host it trough Vercel. Given the scope of your website and requirement, the Enterprise plan would be the best suited option for your organization. The Enterprise plan comes with a customization option to customize the features (like custom bandwidth, custom build execution, custom deloyements per day and so on) to fit your organization&apos;s requirement along with the best Security features (like Password Protected Previews, Custom Firewall Rules, Single-Sign On and 2FA and so on) to secure your site and the best product Support provided for your organzation.</p>
 <p> We would  be glad to schedule a call with you to discuss regarding your requirements and the product in detail. Please let us know few of your convenient time slots (with time zone) so that we can schedule a meeting accordingly.</p> 
 <p> Looking forward to hearing from you</p>
 <p> Regards, <br/>

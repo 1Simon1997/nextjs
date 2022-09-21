@@ -14,11 +14,9 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Simon David's Project
+          Welcome to Simon David&apos;s Project
         </h1>
-
-
-        <div className={styles.grid}>
+       <div className={styles.grid}>
          <div className={styles.card}>
           <Link href="/questions/first" >
          <div>
